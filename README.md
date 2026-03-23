@@ -1,9 +1,9 @@
-# Olá, eu sou o Gabriel Lima 👋
+# Olá, eu sou o Gabriel Henrique de Lima 👋
 
 🎓 Estudante de **Ciência da Computação** (Estácio) e **Técnico em Desenvolvimento de Sistemas** (Proz Contagem)  
 💼 Estagiário de Processos & Sistemas na **Iveco Group** — modelagem de dados, KPIs e dashboards  
-📍 Belo Horizonte, MG  
-🎯 Objetivo: atuar como **Desenvolvedor Web Júnior** (CLT remoto/híbrido) e no futuro migrar para **desenvolvimento de jogos**
+📍 Contagem, MG  
+🎯 Objetivo: atuar como **Desenvolvedor Web Júnior** (CLT remoto/híbrido/Presencial) e no futuro me aventurar no mundo de  **desenvolvimento de jogos**
 
 ---
 

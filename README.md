@@ -33,7 +33,7 @@
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
 | [Controle Financeiro](https://github.com/GabrieILima/Projeto-Controle-Financeiro) | Sistema de controle financeiro pessoal com modelagem DDD | Java |
-| [Brandstorm L'Oréal 2026](https://gabrieilima.github.io/Aroma-Atlas/) | Onepage do projeto Aroma Atlas | JavaScript / HTML / CSS |
+| [Brandstorm L'Oréal 2026](https://github.com/GabrieILima/Aroma-Atlas) | Onepage do projeto Aroma Atlas | JavaScript / HTML / CSS |
 | [Classes de um Jogo](https://github.com/GabrieILima/Writing-the-Classes-of-a-Game) | Modelagem de classes para um jogo em JS | JavaScript |
 
 ---

@@ -61,6 +61,12 @@ Vim de uma carreira em operações industriais (RHI Magnesita) e logística (Bus
 
 ---
 
+| Instituião | Descrição 
+|---|---|
+| [DIO.me](https://github.com/Projects-DlO) | Projetos elaborados nos cursos oferecidos pela plataforma DIO.me|
+| [Estácio][https://github.com/Project-Estacio) | Projetos realizados durante o Curso de Ciência da Computação pela Estácio |
+| [Alura](https://github.com/GabrieILima/Writing-the-Classes-of-a-Game) | Projetos elaborados nos cursos oferecidos pela plataforma Alura |
+
 <div align="center">
   <i>"De operador industrial a desenvolvedor — cada linha de código é uma nova engrenagem."</i>
 </div>

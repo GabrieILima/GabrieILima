@@ -61,7 +61,7 @@ Vim de uma carreira em operações industriais (RHI Magnesita) e logística (Bus
 
 ---
 
-| Instituião | Descrição 
+| Instituição | Descrição 
 |---|---|
 | [DIO.me](https://github.com/Projects-DlO) | Projetos elaborados nos cursos oferecidos pela plataforma DIO.me|
 | [Estácio](https://github.com/Project-Estacio) | Projetos realizados durante o Curso de Ciência da Computação pela Estácio |

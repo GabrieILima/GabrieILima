@@ -2,7 +2,6 @@
 
 🎓 Estudante de **Ciência da Computação** (Estácio) e **Técnico em Desenvolvimento de Sistemas** (Proz Contagem)  
 💼 Estagiário de Processos & Sistemas na **Iveco Group** — modelagem de dados, KPIs e dashboards e levantamento de requisitos e DevOps
-
 📍 Contagem, MG  
 🎯 Objetivo: atuar como **Desenvolvedor Web Júnior** (CLT remoto/híbrido/Presencial) e no futuro me aventurar no mundo de  **desenvolvimento de jogos**
 

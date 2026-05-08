@@ -4,6 +4,7 @@
 💼 Estagiário de Processos & Sistemas na **Iveco Group** — modelagem de dados, KPIs e dashboards e levantamento de requisitos e DevOps  
 📍 Contagem, MG  
 🎯 Objetivo: atuar como **Desenvolvedor Júnior** (CLT remoto/híbrido/Presencial) e no futuro me aventurar no mundo de  **desenvolvimento de jogos**
+⚡ Arquitetura do Perfil: Meus repositórios estão segmentados para facilitar a navegação: em **Projetos Pessoais**, você encontra minhas iniciativas autorais; já os **Projetos Acadêmicos e Práticos** estão agrupados em organizações específicas, acessíveis através dos links listados mais abaixo.
 
 ---
 

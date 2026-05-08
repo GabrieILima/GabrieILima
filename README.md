@@ -68,9 +68,9 @@ Vim de uma carreira em operações industriais (RHI Magnesita) e logística (Bus
 
 | Instituição | Descrição dos Projetos |
 | :--- | :--- |
-| [**Estácio**]([https://github.com](https://github.com/Project-Estacio)) | Projetos e atividades acadêmicas do curso Ciência da Computação. |
-| [**DIO.me**]([https://github.com](https://github.com/Projects-DlO)) | Projetos práticos desenvolvidos em Bootcamps e cursos da plataforma. |
-| [**Alura**]([https://github.com](https://github.com/Projects-Alura)) | Laboratórios e exercícios técnicos de cursos livres. |
+| [**Estácio**](https://github.com/Project-Estacio) | Projetos e atividades acadêmicas do curso Ciência da Computação. |
+| [**DIO.me**](https://github.com/Projects-DlO) | Projetos práticos desenvolvidos em Bootcamps e cursos da plataforma. |
+| [**Alura**](https://github.com/Projects-Alura) | Laboratórios e exercícios técnicos de cursos livres. |
 
 
 <div align="center">

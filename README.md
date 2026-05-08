@@ -63,11 +63,15 @@ Vim de uma carreira em operações industriais (RHI Magnesita) e logística (Bus
 
 ---
 
-| Instituição | Descrição 
-|---|---|
-| [DIO.me](https://github.com/Projects-DlO) | Projetos elaborados nos cursos oferecidos pela plataforma DIO.me|
-| [Estácio](https://github.com/Project-Estacio) | Projetos realizados durante o Curso de Ciência da Computação pela Estácio |
-| [Alura](https://github.com/GabrieILima/Writing-the-Classes-of-a-Game) | Projetos elaborados nos cursos oferecidos pela plataforma Alura |
+## 📁 Organizações e Formação Acadêmica
+
+
+| Instituição | Descrição dos Projetos |
+| :--- | :--- |
+| [**Estácio**]([https://github.com](https://github.com/Project-Estacio)) | Projetos e atividades acadêmicas do curso Ciência da Computação. |
+| [**DIO.me**]([https://github.com](https://github.com/Projects-DlO)) | Projetos práticos desenvolvidos em Bootcamps e cursos da plataforma. |
+| [**Alura**]([https://github.com](https://github.com/Projects-Alura)) | Laboratórios e exercícios técnicos de cursos livres. |
+
 
 <div align="center">
   <i>"May the Force be with you"</i>

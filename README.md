@@ -24,9 +24,9 @@
 
 ## 📚 Atualmente estudando
 
-- 🌐 **Front-end:** HTML, CSS e JavaScript (técnico Proz)
-- ☕ **Back-end:** Java e banco de dados relacional (técnico Proz)
-- 📊 **Análise de dados:** Power BI, Qlik Sense e KPIs (Iveco Group)
+- 🌐 **Front-end:** HTML, CSS e JavaScript
+- ☕ **Back-end:** Java e banco de dados relacional
+- 📊 **Análise de dados:** Power BI, Qlik Sense e KPIs
 
 ---
 
